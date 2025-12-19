@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carte du voyage - Ushguli</title>
+  <style>
+    body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+    #map { height: 100vh; width: 100%; }
+    .info-window { max-width: 250px; font-family: Arial, sans-serif; }
+    .info-window img { width: 100%; height: auto; border-radius: 8px; margin-bottom: 10px; }
+    .info-window h3 { margin: 0 0 5px 0; font-size: 16px; color: #333; }
+    .info-window p { margin: 5px 0; font-size: 14px; color: #666; }
+    .info-window a { color: #1a73e8; text-decoration: none; }
+    .info-window a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  
+  <script>
+    function initMap() {
+      const center = { lat: 42.7358275875, lng: 42.72227931249999 };
+      const map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 10,
+        center: center
+      });
+      
+      const markers = [{"lat":43.04317090000001,"lng":42.7212908,"name":"Rousset, France -> Mestia, Géorgie","jour":1,"titre":"Voyage vers la Svanétie","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=43.04317090000001,42.7212908&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.04317090000001,42.7212908","aiImageUrl":"jour1.jpg"},{"lat":43.04317090000001,"lng":42.7212908,"name":"Mestia","jour":2,"titre":"Premiers pas à Mestia","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=43.04317090000001,42.7212908&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.04317090000001,42.7212908","aiImageUrl":"jour2.jpg"},{"lat":42.915824,"lng":43.0189245,"name":"Mestia -> Ushguli","jour":4,"titre":"Route vers Ushguli, le joyau caché","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=42.915824,43.0189245&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.915824,43.0189245","aiImageUrl":"jour4.jpg"},{"lat":42.915824,"lng":43.0189245,"name":"Ushguli","jour":5,"titre":"Légendes et Panoramas d\"Ushguli","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=42.915824,43.0189245&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.915824,43.0189245","aiImageUrl":"jour5.jpg"},{"lat":42.915824,"lng":43.0189245,"name":"Ushguli -> Mestia","jour":9,"titre":"Retour à Mestia et exploration approfondie","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=42.915824,43.0189245&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.915824,43.0189245","aiImageUrl":"jour9.jpg"},{"lat":42.5091391,"lng":41.866992,"name":"Mestia -> Zougdidi -> Koutaïssi/Tbilissi","jour":11,"titre":"Retour vers la civilisation","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=42.5091391,41.866992&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.5091391,41.866992","aiImageUrl":"jour11.jpg"},{"lat":42.2718339,"lng":42.7059437,"name":"Koutaïssi","jour":12,"titre":"Trésors historiques de Koutaïssi","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=42.2718339,42.7059437&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.2718339,42.7059437","aiImageUrl":"jour12.jpg"},{"lat":42.2718339,"lng":42.7059437,"name":"Koutaïssi/Tbilissi -> Rousset, France","jour":13,"titre":"Départ de Géorgie","streetViewUrl":"https://maps.googleapis.com/maps/api/streetview?size=600x400&location=42.2718339,42.7059437&key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI","streetViewLinkUrl":"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.2718339,42.7059437","aiImageUrl":"jour13.jpg"}];
+      
+      markers.forEach((markerData) => {
+        const marker = new google.maps.Marker({
+          position: { lat: markerData.lat, lng: markerData.lng },
+          map: map,
+          title: markerData.name,
+          label: String(markerData.jour)
+        });
+        
+        const contentString = `
+          <div class="info-window">
+            <img src="${markerData.streetViewUrl}" alt="Street View de ${markerData.name}" />
+            <h3>Jour ${markerData.jour}</h3>
+            <p><strong>${markerData.name}</strong></p>
+            <p><a href="${markerData.streetViewLinkUrl}" target="_blank" rel="noopener noreferrer"><strong>${markerData.titre}</strong></a></p>
+          </div>
+        `;
+        
+        const infoWindow = new google.maps.InfoWindow({
+          content: contentString
+        });
+        
+        marker.addListener('click', () => {
+          infoWindow.open(map, marker);
+        });
+      });
+    }
+  </script>
+  
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB5WUNvRC9eOjHRLt92fs4hsp0Auje3aAI&callback=initMap">
+  </script>
+</body>
+</html>
