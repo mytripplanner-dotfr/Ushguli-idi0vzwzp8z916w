@@ -1,0 +1,394 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🏔️",
+  "titre": "Ushguli, l'Écho des Montagnes du Caucase",
+  "budget_total": "2150€",
+  "duree": "13 jours",
+  "temps_vol": "Environ 8h à 12h depuis Marseille avec escale" ,
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "✈️",
+      "titre": "Voyage vers la Svanétie",
+      "legende": "Votre aventure commence par un long voyage depuis Rousset, France, vers les majestueuses montagnes du Caucase. Après un vol international, vous atterrirez en Géorgie, puis prendrez la direction de la Svanétie, une région reculée et authentique. Ce jour sera principalement dédié au transport, vous permettant d\"anticiper la beauté sauvage qui vous attend.",
+      "lieu": "Rousset, France -> Mestia, Géorgie",
+      "activites": [
+        "✈️ <strong>Vol international:</strong> Départ de Marseille, France, vers Tbilissi ou Koutaïssi, Géorgie. Préparez-vous à une journée de transit et de découverte aérienne.",
+        "🚌 <strong>Transfert vers la Svanétie:</strong> De l\"aéroport, vous prendrez un vol intérieur ou un transport terrestre (marshrutka ou taxi partagé) vers Mestia, le cœur de la Svanétie. Le trajet offre déjà des panoramas saisissants."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil de voyage",
+          "texte": "Prévoyez des en-cas et de l\"eau pour les longs trajets. Les options de restauration peuvent être limitées en chemin vers la Svanétie."
+        },
+        {
+          "symbole": "🛄",
+          "titre": "Bagages",
+          "texte": "Optez pour un sac à dos robuste, plus pratique pour les déplacements en montagne et les chemins parfois accidentés."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚶‍♀️",
+      "titre": "Premiers pas à Mestia",
+      "legende": "Après un long voyage, cette journée est dédiée à une douce immersion dans l\"atmosphère unique de Mestia. Flânez dans ses ruelles, admirez les célèbres tours svanes qui se dressent fièrement et imprégnez-vous de l\"histoire et de la culture locale. C\"est une introduction parfaite à la beauté et à la sérénité de la Svanétie.",
+      "lieu": "Mestia",
+      "activites": [
+        "🛏️ <strong>Installation et repos:</strong> Arrivée tardive la veille, profitez d\"une matinée tranquille pour vous installer dans votre hébergement et vous reposer. Laissez le calme des montagnes vous envelopper.",
+        "🚶‍♂️ <strong>Balade découverte de Mestia:</strong> Promenez-vous dans le centre de Mestia, observez les tours de défense médiévales et ressentez l\"ambiance particulière de cette ville de montagne. C\"est une première approche douce de la culture svane."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Altitude",
+          "texte": "Mestia est à environ 1500m d\"altitude. Prenez le temps de vous acclimater avant des efforts intenses."
+        },
+        {
+          "symbole": "🗣️",
+          "titre": "Langue",
+          "texte": "Quelques mots de géorgien ou de russe seront appréciés, bien que l\"anglais soit de plus en plus parlé dans les zones touristiques."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏛️",
+      "titre": "Culture et Nature Svanes",
+      "legende": "Plongez au cœur de l\"héritage svane en visitant le musée ethnographique, un trésor d\"histoire et de traditions. L\"après-midi, la nature vous appelle pour une randonnée revigorante vers le glacier de Chalaadi, offrant des vues spectaculaires et une bouffée d\"air frais montagnard. Une journée équilibrée entre culture et paysages grandioses.",
+      "lieu": "Mestia",
+      "activites": [
+        "🏛️ <strong>Visite du Musée d\"Histoire et d\"Ethnographie de Svanétie:</strong> Découvrez l\"histoire fascinante de la région, ses icônes religieuses uniques et ses traditions ancestrales. Ce musée est une fenêtre sur l\"âme svane.",
+        "🏞️ <strong>Randonnée vers le glacier de Chalaadi:</strong> Une marche facile à modérée vous mènera à travers une forêt luxuriante jusqu\"au pied du glacier. C\"est une expérience immersive dans la puissance de la nature caucasienne."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎒",
+          "titre": "Équipement",
+          "texte": "Pour la randonnée, prévoyez de bonnes chaussures de marche, de l\"eau et des vêtements adaptés aux changements de temps en montagne."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les paysages sont époustouflants, n\"oubliez pas votre appareil photo pour immortaliser ces moments."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🚗",
+      "titre": "Route vers Ushguli, le joyau caché",
+      "legende": "Aujourd\"hui, l\"aventure prend une tournure plus sauvage alors que vous empruntez une route sinueuse et spectaculaire vers Ushguli, un site classé au patrimoine mondial de l\"UNESCO. Ce trajet en 4x4 est une expérience en soi, offrant des vues imprenables sur les sommets enneigés et les vallées profondes. Une fois arrivé, le temps semble s\"arrêter dans ce village hors du temps.",
+      "lieu": "Mestia -> Ushguli",
+      "activites": [
+        "🚙 <strong>Transfert en 4x4 vers Ushguli:</strong> Embarquez pour un trajet mémorable sur une route de montagne parfois difficile, mais toujours récompensée par des panoramas à couper le souffle. C\"est le chemin vers le \"toit de l\"Europe\".",
+        "🚶‍♀️ <strong>Première exploration d\"Ushguli:</strong> Après l\"installation, faites une courte promenade dans les villages d\"Ushguli, en vous imprégnant de l\"atmosphère médiévale et en admirant les tours svanes emblématiques. Laissez-vous charmer par ce lieu unique."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Route",
+          "texte": "La route vers Ushguli est exigeante. Un véhicule 4x4 avec un chauffeur expérimenté est indispensable."
+        },
+        {
+          "symbole": "📶",
+          "titre": "Connectivité",
+          "texte": "La couverture réseau est très limitée à Ushguli, profitez-en pour vous déconnecter et vous ressourcer."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "⛪",
+      "titre": "Légendes et Panoramas d\"Ushguli",
+      "legende": "Découvrez les trésors cachés d\"Ushguli en explorant ses villages et ses sites historiques. La petite église de Lamaria, perchée sur une colline, offre non seulement un aperçu de l\"art religieux svane, mais aussi des vues panoramiques inoubliables sur l\"ensemble du complexe d\"Ushguli et le mont Chkhara. Une journée riche en découvertes et en émotions visuelles.",
+      "lieu": "Ushguli",
+      "activites": [
+        "⛪ <strong>Visite de l\"église Lamaria:</strong> Montez jusqu\"à cette église emblématique du 10ème siècle, célèbre pour ses fresques et sa position dominante. Le panorama sur Ushguli et le mont Chkhara est à couper le souffle.",
+        "🚶‍♂️ <strong>Exploration des villages de Chazhashi et Murkmeli:</strong> Flânez dans les ruelles pavées, admirez les tours de défense médiévales et observez la vie quotidienne des habitants. Chaque pierre raconte une histoire millénaire."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect",
+          "texte": "Lors de la visite des églises, couvrez vos épaules et vos genoux par respect pour les coutumes locales."
+        },
+        {
+          "symbole": "💰",
+          "titre": "Monnaie locale",
+          "texte": "Prévoyez de l\"argent liquide (Lari géorgien), car les distributeurs automatiques sont inexistants à Ushguli."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "⛰️",
+      "titre": "Randonnée vers le glacier de Shkhara",
+      "legende": "Aujourd\"hui, une randonnée épique vous attend vers le majestueux glacier de Shkhara, le point culminant de la Géorgie. Cette marche vous mènera à travers des paysages alpins grandioses, des prairies fleuries et des rivières glaciaires. C\"est une immersion totale dans la nature sauvage du Caucase, une expérience inoubliable pour les amoureux de la montagne.",
+      "lieu": "Ushguli",
+      "activites": [
+        "🚶‍♀️ <strong>Randonnée vers le glacier de Shkhara:</strong> Partez pour une journée de randonnée le long de la rivière Enguri, avec le mont Shkhara en toile de fond. Vous pouvez choisir de marcher jusqu\"au pied du glacier ou de faire une partie du chemin, selon votre niveau et le temps disponible.",
+        "🐎 <strong>Option: Randonnée à cheval:</strong> Pour une expérience différente, il est possible de louer des chevaux avec un guide local pour une partie du trajet vers le glacier. Une façon authentique de découvrir les paysages."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Hydratation",
+          "texte": "Emportez suffisamment d\"eau et des provisions pour la journée, il n\"y a pas de points de ravitaillement sur le chemin."
+        },
+        {
+          "symbole": "☀️",
+          "titre": "Protection solaire",
+          "texte": "L\"altitude et la réverbération peuvent rendre le soleil intense, protégez-vous avec un chapeau et de la crème solaire."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🐴",
+      "titre": "Vie pastorale et panoramas cachés",
+      "legende": "Explorez les environs d\"Ushguli sous un angle différent, en vous immergeant dans la vie pastorale locale. Une balade à cheval ou une randonnée vers des points de vue moins fréquentés vous permettra de découvrir des paysages encore plus intimes et de rencontrer les bergers. C\"est une journée pour apprécier la tranquillité et l\"authenticité de cette région reculée.",
+      "lieu": "Ushguli",
+      "activites": [
+        "🐴 <strong>Balade à cheval dans les environs:</strong> Louez un cheval avec un guide local pour explorer les prairies et les collines autour d\"Ushguli. C\"est une manière unique de découvrir des points de vue cachés et de se sentir connecté à la nature.",
+        "🚶‍♀️ <strong>Découverte des tours de défense de Zhibiani:</strong> Promenez-vous dans le village de Zhibiani, l\"un des quatre villages d\"Ushguli, et admirez ses tours svanes bien conservées. Chaque tour a son histoire et sa légende."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🤝",
+          "titre": "Interaction locale",
+          "texte": "N\"hésitez pas à saluer les habitants avec un \"Gamarjoba\" (bonjour), ils sont souvent très accueillants."
+        },
+        {
+          "symbole": "🍲",
+          "titre": "Cuisine locale",
+          "texte": "Goûtez au \"Kubdari\", un pain fourré à la viande épicée, spécialité de la Svanétie, souvent préparé dans les guesthouses."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée libre et contemplation",
+      "legende": "Après plusieurs jours d\"exploration intense, cette journée est dédiée à la détente et à l\"appréciation de l\"environnement exceptionnel d\"Ushguli. Profitez-en pour vous reposer, lire un livre avec une vue imprenable, ou simplement observer la vie locale. C\"est l\"occasion de laisser l\"esprit vagabonder et de savourer les derniers instants dans ce lieu magique.",
+      "lieu": "Ushguli",
+      "activites": [
+        "☕ <strong>Matinée libre et relaxation:</strong> Prenez votre temps pour un petit-déjeuner tranquille, profitez du calme des montagnes et de l\"air pur. Laissez-vous bercer par le rythme lent de la vie à Ushguli.",
+        "🚶‍♂️ <strong>Petite balade contemplative:</strong> Faites une dernière promenade légère autour des villages, revisitez vos endroits préférés ou découvrez un nouveau sentier. L\"objectif est de profiter de l\"ambiance sans contrainte."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "📚",
+          "titre": "Lecture",
+          "texte": "Ushguli est l\"endroit idéal pour se plonger dans un bon livre, loin de l\"agitation du monde."
+        },
+        {
+          "symbole": "🎨",
+          "titre": "Inspiration",
+          "texte": "Si vous aimez dessiner ou écrire, l\"environnement d\"Ushguli est une source d\"inspiration inépuisable."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🔄",
+      "titre": "Retour à Mestia et exploration approfondie",
+      "legende": "Il est temps de quitter Ushguli pour retourner à Mestia, mais l\"aventure continue. Profitez de l\"après-midi pour explorer des aspects de Mestia que vous n\"avez pas encore eu le temps de voir, comme la maison-musée de Mikheil Khergiani, un alpiniste légendaire. C\"est une transition douce entre la solitude d\"Ushguli et l\"animation relative de Mestia.",
+      "lieu": "Ushguli -> Mestia",
+      "activites": [
+        "🚙 <strong>Retour en 4x4 vers Mestia:</strong> Reprenez la route panoramique vers Mestia. Profitez une dernière fois des vues sur les vallées et les sommets qui vous ont tant émerveillé.",
+        "🏠 <strong>Visite de la Maison-Musée de Mikheil Khergiani:</strong> Découvrez la vie et les exploits de ce célèbre alpiniste svane, surnommé le \"Tigre des Rochers\". Une immersion dans l\"histoire de l\"alpinisme géorgien."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Mestia offre plus d\"options pour acheter des souvenirs artisanaux que Ushguli."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Dîner",
+          "texte": "Mestia propose une plus grande variété de restaurants pour dîner, des plats locaux aux options plus internationales."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🚠",
+      "titre": "Panoramas aériens et lacs de montagne",
+      "legende": "Montez en télésiège jusqu\"à la station de ski de Hatsvali pour des vues imprenables sur les sommets environnants, y compris l\"emblématique Ouchba. Pour les plus aventureux, une randonnée vers les lacs de Koruldi offre une récompense visuelle exceptionnelle. C\"est une journée pour prendre de la hauteur et admirer la grandeur du Caucase sous un autre angle.",
+      "lieu": "Mestia",
+      "activites": [
+        "🚠 <strong>Montée en télésiège à Hatsvali:</strong> Prenez le télésiège depuis Mestia jusqu\"à la station de ski de Hatsvali. Même en été, la vue depuis le sommet est spectaculaire, offrant un panorama à 360 degrés sur les montagnes.",
+        "🏞️ <strong>Randonnée aux lacs de Koruldi:</strong> Pour une expérience plus sportive, partez en randonnée vers les magnifiques lacs de Koruldi. Le chemin est exigeant mais les vues sur le mont Ouchba et les lacs alpins sont inoubliables."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Chaussures",
+          "texte": "Pour la randonnée aux lacs de Koruldi, des chaussures de randonnée robustes sont essentielles."
+        },
+        {
+          "symbole": "🌡️",
+          "titre": "Températures",
+          "texte": "Les températures peuvent être fraîches en altitude, même en été. Prévoyez une couche supplémentaire."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛣️",
+      "titre": "Retour vers la civilisation",
+      "legende": "Après l\"immersion profonde dans la Svanétie, il est temps de redescendre vers les plaines. Le trajet de retour vers Koutaïssi ou Tbilissi est long, mais il offre l\"occasion de revoir les paysages changeants de la Géorgie. Une étape à Zougdidi permet de découvrir le Palais Dadiani, un joyau architectural qui contraste avec les tours de pierre de la Svanétie.",
+      "lieu": "Mestia -> Zougdidi -> Koutaïssi/Tbilissi",
+      "activites": [
+        "🚌 <strong>Transfert de Mestia vers Zougdidi:</strong> Prenez un marshrutka ou un taxi partagé pour redescendre de la Svanétie. Le trajet est long mais offre de belles vues sur la campagne géorgienne.",
+        "🏰 <strong>Visite du Palais Dadiani à Zougdidi:</strong> Faites une halte à Zougdidi pour explorer l\"ancien palais des princes Dadiani, avec son musée et ses magnifiques jardins. C\"est un aperçu de l\"histoire aristocratique de la Géorgie."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Durée du trajet",
+          "texte": "Le trajet Mestia-Zougdidi prend environ 4-5 heures. Prévoyez de partir tôt."
+        },
+        {
+          "symbole": "🎫",
+          "titre": "Billets",
+          "texte": "Achetez vos billets de marshrutka la veille si possible, surtout en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "⛪",
+      "titre": "Trésors historiques de Koutaïssi",
+      "legende": "Si votre vol retour est depuis Koutaïssi, profitez de cette journée pour explorer cette ville historique, l\"une des plus anciennes de Géorgie. Visitez la majestueuse Cathédrale de Bagrati et le complexe monastique de Ghélati, tous deux classés au patrimoine mondial de l\"UNESCO. C\"est une plongée dans l\"histoire médiévale et l\"architecture religieuse géorgienne.",
+      "lieu": "Koutaïssi",
+      "activites": [
+        "⛪ <strong>Visite de la Cathédrale de Bagrati:</strong> Admirez cette cathédrale emblématique du 11ème siècle, restaurée avec soin et offrant une vue imprenable sur Koutaïssi. Un chef-d\"œuvre de l\"architecture médiévale géorgienne.",
+        "🙏 <strong>Exploration du Monastère de Ghélati:</strong> Rendez-vous à ce complexe monastique fondé par le roi David le Bâtisseur, abritant des églises magnifiques et des académies médiévales. Ses mosaïques et fresques sont d\"une beauté rare."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transports locaux",
+          "texte": "Des taxis ou des marshrutkas locaux peuvent vous emmener facilement aux sites historiques autour de Koutaïssi."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Centre-ville",
+          "texte": "Prenez le temps de vous promener dans le centre-ville de Koutaïssi, avec son marché coloré et ses ponts."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🛫",
+      "titre": "Départ de Géorgie",
+      "legende": "C\"est le dernier jour de votre incroyable voyage en Géorgie. Après un petit-déjeuner, vous vous dirigerez vers l\"aéroport de Koutaïssi ou Tbilissi pour votre vol retour. Emportez avec vous les souvenirs inoubliables des montagnes du Caucase, des tours svanes et de l\"hospitalité géorgienne. Une aventure qui restera gravée dans votre mémoire.",
+      "lieu": "Koutaïssi/Tbilissi -> Rousset, France",
+      "activites": [
+        "✈️ <strong>Transfert à l\"aéroport:</strong> Selon l\"heure de votre vol, un taxi ou un bus vous conduira à l\"aéroport de Koutaïssi ou Tbilissi. Prévoyez suffisamment de temps pour le trajet et les formalités.",
+        "🛫 <strong>Vol retour vers la France:</strong> Embarquez pour votre vol international, la tête pleine d\"images et d\"expériences uniques vécues au cœur du Caucase géorgien."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🛂",
+          "titre": "Formalités",
+          "texte": "Vérifiez les exigences de votre compagnie aérienne concernant les bagages et les documents de voyage."
+        },
+        {
+          "symbole": "🛍️",
+          "titre": "Derniers achats",
+          "texte": "Si le temps le permet, profitez des boutiques de l\"aéroport pour quelques derniers souvenirs ou spécialités locales."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "650€/pers (Vol A/R Marseille-Tbilissi/Koutaïssi avec escale + vol intérieur vers Mestia)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "250€/pers (Marshrutkas, taxis 4x4 Mestia-Ushguli A/R, transports locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "455€/pers (Environ 35€/jour pour 13 jours, incluant petits-déjeuners, déjeuners et dîners)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "660€/pers (Environ 55€/nuit pour 12 nuits en hôtels 3 étoiles ou guesthouses confortables)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "135€/pers (Musées, télésiège, guides de randonnée, location de cheval)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai, juin et septembre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Géorgie est un pays du Caucase, à la croisée de l\"Europe et de l\"Asie. Sa population est d\"environ 3,7 millions d\"habitants, dont une forte proportion est orthodoxe. La Svanétie, où se trouve Ushguli, est une région montagneuse isolée, connue pour ses traditions ancestrales et son dialecte unique, le svane.",
+      "symbole": "🇬🇪"
+    },
+    {
+      "titre": "Ushguli est souvent revendiqué comme le plus haut village habité en permanence d\"Europe (environ 2100m d\"altitude), bien que ce titre soit parfois disputé. Il est classé au patrimoine mondial de l\"UNESCO pour ses tours de défense médiévales uniques, datant du 9ème au 12ème siècle.",
+      "symbole": "🏔️"
+    },
+    {
+      "titre": "La cuisine géorgienne est réputée pour sa diversité et ses saveurs. Ne manquez pas le Khachapuri (pain au fromage), le Khinkali (raviolis) et les plats à base de noix. Le vin géorgien, produit selon des méthodes ancestrales en qvevri (amphores en terre cuite), est également un incontournable.",
+      "symbole": "🍷"
+    },
+    {
+      "titre": "Les Géorgiens sont connus pour leur hospitalité légendaire. Il n\"est pas rare d\"être invité à partager un repas ou un verre de vin. Un simple \"Gamarjoba\" (bonjour) et \"Madloba\" (merci) sera très apprécié.",
+      "symbole": "🤝"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme en Géorgie",
+      "titre": "Georgian National Tourism Administration",
+      "url": "https://gnta.ge/en/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo pour la Svanétie",
+      "titre": "Météo Svanétie",
+      "url": "https://www.accuweather.com/fr/ge/mestia/112675/weather-forecast/112675",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur les vols vers la Géorgie",
+      "titre": "Skyscanner",
+      "url": "https://www.skyscanner.fr/",
+      "symbole": "✈️"
+    }
+  ]
+}
